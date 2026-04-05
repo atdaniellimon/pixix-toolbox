@@ -1,8 +1,8 @@
 [
     {
         "name": "Tree",
-        "file": "tree.glb",
-        "thumbnail": "tree.png",
-        "tags": ["nature", "outdoor"]
+        "file": "1.fbx",
+        "tags": ["nature", "outdoor"],
+        "id": "1"
     }
 ]
