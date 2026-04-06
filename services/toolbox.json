@@ -1,13 +1,11 @@
 [
     {
-        "name": "Tree",
-        "model": "1.fbx",
+        "name": "Character",
         "tags": ["nature", "outdoor"],
         "id": "1"
     },
     {
-        "name": "Character",
-        "model": "2.fbx",
+        "name": "RZR",
         "tags": ["pixix"],
         "id": "2"
     }
