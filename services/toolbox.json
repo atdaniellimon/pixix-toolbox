@@ -4,5 +4,11 @@
         "model": "1.fbx",
         "tags": ["nature", "outdoor"],
         "id": "1"
+    },
+    {
+        "name": "Character",
+        "model": "2.fbx",
+        "tags": ["pixix"],
+        "id": "2"
     }
 ]
